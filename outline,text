@@ -1,0 +1,15 @@
+- fork a project to their repo
+--------------------------------------
+- clone to the local system
+- make a branch
+- update code version 1 (code, add, commit, push)
+- update code version 2 (pull, code, add, commit, push)
+------------------------------------------------
+- merge to master branch
+- all memebers update same part of the code (merge conflict)!! (version 3)
+------------------------------------------------
+- who solves merge conflict? everyone!
+- push to github
+- file an issue to the original repo, and make a pull request with the updated fix
+------------------------------------------------
+==========================================================
